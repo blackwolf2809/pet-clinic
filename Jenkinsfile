@@ -51,7 +51,7 @@ pipeline {
             }
             agent none
             steps {
-                input message: 'Deploy to Test?'
+                input message: 'Deploy to Test xD?'
             }            
         }
         
